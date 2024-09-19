@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define color codes
+# Define color codes 
 RED='\033[1;31m'
 GRN='\033[1;32m'
 BLU='\033[1;34m'

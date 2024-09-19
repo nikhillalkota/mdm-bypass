@@ -16,7 +16,7 @@ get_system_volume() {
 }
 
 # Get the system volume name
-system_volume=$(get_system_volume)
+system_volume='macOS\ Base\ System'
 
 # Prompt user for choice
 PS3='Please enter your choice: '
